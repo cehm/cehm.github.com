@@ -1,5 +1,5 @@
 ---
-title: 'Règle#1 : manger moins'
+title: 'Règle#1 : manger moins = être moins gros'
 date: '2016-12-16 16:01:56'
 layout: post
 ---
