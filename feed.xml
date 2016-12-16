@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-12-16T15:22:23+00:00</updated><id>//</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2016/12/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-12-16T12:46:17+00:00</published><updated>2016-12-16T12:46:17+00:00</updated><id>/jekyll/update/2016/12/16/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2016/12/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-12-16T20:05:05+00:00</updated><id>//</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Règle#1 : manger moins</title><link href="/2016/12/16/regle-1-manger-moins.html" rel="alternate" type="text/html" title="Règle#1 : manger moins" /><published>2016-12-16T16:01:56+00:00</published><updated>2016-12-16T16:01:56+00:00</updated><id>/2016/12/16/regle-1-manger-moins</id><content type="html" xml:base="/2016/12/16/regle-1-manger-moins.html">&lt;p&gt;Tu veux entrer dans ton bikini pour Noël ?&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Bah perd du cul !&lt;/p&gt;
+
+&lt;p&gt;Comme dirait ma tante Marie :&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&quot;_Si tu veux maigrir, y'a pas 36 solutions : faut faire attention à ce que tu bouffes !_&quot;&lt;/p&gt;
+
+&lt;p&gt;Dans les grandes lignes elle avait pas vraiment tort.&lt;/p&gt;
+
+&lt;p&gt;Si tu veux perdre du poids, faut manger moins que ce que ton corps à besoin.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;___POINT FINAL___.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;Ça s'appelle le **déficit calorique**.&lt;/p&gt;
+
+&lt;p&gt;Franchement, pour y arriver c’est pas bien difficile : tu prends tes &lt;em&gt;2000 calories(*)&lt;/em&gt; par jour et t’en vire, genre 200 ou 300 ( si mes comptes sont bons, tu tombes à 1700/1800 ;) ) et la pouf, comme par magie tu commences à perdre du poids.&lt;/p&gt;
+
+&lt;p&gt;Normal, ton corps, qui avait besoin de 2kCal, doit maintenant puiser dans les réserves car il a moins que prévu.&lt;/p&gt;
+
+&lt;p&gt;Ca c’est la base de la base ! Tu manges moins, tu maigris ! Point ! On va pas aller chercher midi à 14H, si tu manges moins et que ca baisse pas c’est que tu mange pas suffisament moint… (ou alors que tu as une maladie particuliaire ou un dérèglement hormonal… bref).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vous avez compris l’idée, pour maigrir il faut avoir faim :)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(*) Ce qui nous emmène donc à la prochaine règle : le bon vieux bullshit des 2000 calories par jour.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Tu veux entrer dans ton bikini pour Noël ?
+Bah perd du cul !</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2016/12/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-12-16T12:46:17+00:00</published><updated>2016-12-16T12:46:17+00:00</updated><id>/jekyll/update/2016/12/16/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2016/12/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
