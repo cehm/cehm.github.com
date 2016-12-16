@@ -3,7 +3,8 @@ title: 'Règle#1 : manger moins'
 date: '2016-12-16 16:01:56'
 layout: post
 ---
-Tu veux entrer dans ton bikini pour Noël ? Bah perd du cul !
+Tu veux entrer dans ton bikini pour Noël ? 
+<p style="text-align: center;">Bah perd du cul !</p>
 
 Comme dirait ma tante Marie :
 
