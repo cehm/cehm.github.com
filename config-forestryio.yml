@@ -1,12 +1,12 @@
 ---
-title: Blog de Cehm
-email: ---
+title: Your awesome title
+email: your-email@domain.com
 description: |
-  Site sur la bouffe, comment manger mieux. J'essais de donner des bons tips pour perdre du poids.
+  Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 baseurl: ''
 url: ''
-twitter_username: ---
-github_username: ---
+twitter_username: jekyllrb
+github_username: jekyll
 markdown: kramdown
 theme: minima
 gems:
