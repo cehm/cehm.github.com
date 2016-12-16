@@ -3,6 +3,8 @@ title: 'Règle#1 : manger moins'
 date: '2016-12-16 16:01:56'
 layout: post
 ---
+Tu veux entrer dans ton bikini pour Noël ? Bah perd du cul !
+
 Comme dirait ma tante Marie :
 
 <p style="text-align: center;">"_Si tu veux maigrir, y'a pas 36 solutions : faut faire attention à ce que tu bouffes !_"</p>
